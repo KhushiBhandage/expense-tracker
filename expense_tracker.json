@@ -1,0 +1,7 @@
+{
+  "salary": 30000,
+  "expenses": {
+    "Food": 5000,
+    "Shopping": 2000
+  }
+}
